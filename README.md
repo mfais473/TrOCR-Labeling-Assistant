@@ -28,3 +28,5 @@ gambar1.jpg[tabs]labels1
 
 jika anda tertarik dengan project yang sedang kami kembangkan, anda dapat berkontribusi atau bergabung dengan kami untuk bersama-sama mengembangkan project-project tersebut.
 
+Anda bisa langsung menghubungi kami lewat github jika tertarik berkontribusi atau membantu kami dalam mengembangkan project-project tersebut.
+
