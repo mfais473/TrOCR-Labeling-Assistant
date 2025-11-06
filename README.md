@@ -5,11 +5,11 @@ TrOCR Labeling Assistant adalah aplikasi desktop offline berbasis Python + Tkint
 3. Menyimpan hasil crop teks otomatis ke folder output untuk dataset.
 
 # Fitur Utama:
-GUI ringan (tidak butuh koneksi internet)
-Mendukung format gambar umum: .jpg, .png, .jpeg
-Penyimpanan otomatis hasil crop dan label (output/labels.txt)
-Folder output dibuat otomatis
-Kompatibel dengan dataset format TrOCR (image–text pair)
+1. GUI ringan (tidak butuh koneksi internet)
+2. Mendukung format gambar umum: .jpg, .png, .jpeg
+3. Penyimpanan otomatis hasil crop dan label (output/labels.txt)
+4. Folder output dibuat otomatis
+5. Kompatibel dengan dataset format TrOCR (image–text pair)
 
 # Teknologi yang digunakan:
 1. Python 3.x
