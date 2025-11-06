@@ -19,7 +19,7 @@ Pillow
 OpenCV
 
 # Contoh format label yang dihasilkan:
-gambar1.jpg<tabs>labels1
+gambar1.jpg[tabs]labels1
 
 Kami berharap tools ini dapat membantu anda dalam mengembangkan model NLP seperti TrOCR dan kami juga berharap bahwa anda dapat berkontribusi dalam mengembangkan software ini dengan mengkontak kami langsung melalui github apabila memiliki ide dalam mengembangkan tools ini.
 
