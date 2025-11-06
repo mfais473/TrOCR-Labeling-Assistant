@@ -21,10 +21,11 @@ Kompatibel dengan dataset format TrOCR (image–text pair)
 gambar1.jpg[tabs]labels1
 
 # Kami juga memiliki beberapa project yang sedang dikerjakan sekarang:
-1. Fine-tuning TrOCR untuk ekstraksi identitas (dalam bahasa Indonesia).
+1. Fine-tuning TrOCR untuk ekstraksi teks dari gambar (dalam bahasa Indonesia).
 2. Fine-tuning BERT untuk analisis sentimen komentar (dalam bahasa Indonesia) dengan konteks.
-3. Pengembangan sistem deteksi+tracking ayam menggunakan YOLO-tracker.
-4. Pengembangan AI multimodal berbasis YOLO-tracker untuk monitoring kesehatan ayam di peternakan.
+3. Sistem deteksi+tracking ayam menggunakan YOLO-tracker.
+4. AI multimodal berbasis YOLO-tracker untuk monitoring kesehatan ayam di peternakan.
+5. Sistem persuratan otomatis LOKADESA APP
 
 jika anda tertarik dengan project yang sedang kami kembangkan, anda dapat berkontribusi atau bergabung dengan kami untuk bersama-sama mengembangkan project-project tersebut.
 
