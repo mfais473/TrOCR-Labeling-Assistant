@@ -20,8 +20,6 @@ Kompatibel dengan dataset format TrOCR (image–text pair)
 # Contoh format label yang dihasilkan:
 gambar1.jpg[tabs]labels1
 
-Kami berharap tools ini dapat membantu anda dalam mengembangkan model NLP seperti TrOCR dan kami juga berharap bahwa anda dapat berkontribusi dalam mengembangkan software ini dengan mengkontak kami langsung melalui github apabila memiliki ide dalam mengembangkan tools ini.
-
 # Kami juga memiliki beberapa project yang sedang dikerjakan sekarang:
 1. Fine-tuning TrOCR untuk ekstraksi identitas (dalam bahasa Indonesia).
 2. Fine-tuning BERT untuk analisis sentimen komentar (dalam bahasa Indonesia) dengan konteks.
