@@ -1,5 +1,5 @@
 # TrOCR-Labeling-Assistant
-TrOCR Labeling Assistant adalah aplikasi desktop offline berbasis Python + Tkinter yang membantu anda untuk:
+TrOCR Labeling Assistant adalah tool berbasis Python + Tkinter yang membantu anda untuk:
 1. Membuat bounding box area teks secara manual di gambar,
 2. Menyimpan hasil labeling dalam format teks yang sesuai untuk pelatihan model TrOCR atau model OCR lainnya,
 3. Menyimpan hasil crop teks otomatis ke folder output untuk dataset.
