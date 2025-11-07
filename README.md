@@ -11,7 +11,7 @@ TrOCR Labeling Assistant adalah tool berbasis Python + Tkinter yang membantu and
 4. Folder output dibuat otomatis
 5. Kompatibel dengan dataset format TrOCR (image–text pair)
 
-# Teknologi yang digunakan:
+# Library yang digunakan:
 1. Python 3.x
 2. Tkinter (GUI)
 3. Pillow
