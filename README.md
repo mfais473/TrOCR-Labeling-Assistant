@@ -4,13 +4,6 @@ TrOCR Labeling Assistant adalah tool berbasis Python + Tkinter yang membantu and
 2. Menyimpan hasil labeling dalam format teks yang sesuai untuk pelatihan model TrOCR atau model OCR lainnya,
 3. Menyimpan hasil crop teks otomatis ke folder output untuk dataset.
 
-# Fitur Utama:
-1. GUI ringan (tidak butuh koneksi internet)
-2. Mendukung format gambar umum: .jpg, .png, .jpeg
-3. Penyimpanan otomatis hasil crop dan label (output/labels.txt)
-4. Folder output dibuat otomatis
-5. Kompatibel dengan dataset format TrOCR (image–text pair)
-
 # Library yang digunakan:
 1. Python 3.x
 2. Tkinter (GUI)
@@ -20,6 +13,10 @@ TrOCR Labeling Assistant adalah tool berbasis Python + Tkinter yang membantu and
 # Contoh format label yang dihasilkan:
 gambar1.jpg[tabs]labels1
 
+# Pengembangan
+Kode yang dibagikan hanya dasar tentang bagaimana tool kami bekerja, jika anda ingin melihat tambahan fitur yang sudah kami update anda bisa mendowloadnya dalam bentuk exe disini:
+
+(link coming soon)
 # Kami juga memiliki beberapa project yang sedang dikerjakan sekarang:
 1. Fine-tuning TrOCR untuk ekstraksi teks dari gambar (dalam bahasa Indonesia).
 2. Fine-tuning BERT untuk analisis sentimen komentar (dalam bahasa Indonesia) dengan konteks.
