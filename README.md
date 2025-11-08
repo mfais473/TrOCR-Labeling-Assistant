@@ -14,7 +14,7 @@ TrOCR Labeling Assistant adalah tool berbasis Python + Tkinter yang membantu and
 gambar1.jpg[tabs]labels1
 
 # Pengembangan
-Kode yang dibagikan hanya dasar tentang bagaimana tool kami bekerja, jika anda ingin melihat tambahan fitur yang sudah kami update anda bisa mendowloadnya dalam bentuk exe disini:
+Kode yang dibagikan hanya dasar tentang bagaimana tool kami bekerja, jika anda ingin melihat tambahan fitur yang sudah kami update anda bisa mendowloadnya dalam bentuk .exe disini:
 
 (link coming soon)
 # Kami juga memiliki beberapa project yang sedang dikerjakan sekarang:
